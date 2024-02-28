@@ -1,4 +1,4 @@
 # shyam-demo
 this is my first git repository.
 <br>
-Author-shyam sharma
+Author-shyam (shyam-sharm)
